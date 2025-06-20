@@ -1,4 +1,4 @@
-# Nhóm 6 - Bài tập lớn giwuax kì môn AI
+# Nhóm 6 - Bài tập lớn giữa kì môn AI
 # Lưu ý: CHƯƠNG TRÌNH CHẠY TRÊN PYCHARM
 # CHẠY FILE OPENCV2.PY
 # Danh sách thành viên
