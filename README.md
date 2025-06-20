@@ -9,3 +9,8 @@
 # Lưu ý: CHƯƠNG TRÌNH CHẠY TRÊN PYCHARM
 # Hãy cài thư viện numpy và OpenCV
 # File opencv1.py để test huấn luyện, opencv2.py là bản chạy hoàn chỉnh
+# Hướng dẫn chạy project Python
+Tạo môi trường ảo
+```bash
+python -m venv .venv
+.\.venv\Scripts\activate
