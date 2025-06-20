@@ -1,0 +1,2 @@
+# Danh sách thư viện sẽ được cập nhật khi chạy:
+# pip freeze > requirements.txt
